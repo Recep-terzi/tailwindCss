@@ -1,6 +1,6 @@
-# tailwind Css
+# Tailwind Css
 
-## Open terminal
+## Open terminal -> 
 
 > ### npm install tailwindcss
 
@@ -8,7 +8,7 @@
 >
 > ### npx tailwindcss init	
 
-## create tailwind.css and write:
+## create tailwind.css and write ->
 
 > ### @tailwind base;
 >
@@ -16,6 +16,6 @@
 >
 > ### @tailwind utilities;
 
-##  and open the terminal
+##  and open the terminal ->
 
 > ### npx tailwindcss -i ./tailwind.css -o ./style.css --watch
