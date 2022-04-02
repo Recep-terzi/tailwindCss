@@ -1,4 +1,4 @@
-# Tailwind Css
+# Tailwind Css Usage
 
 ## Open terminal -> 
 
